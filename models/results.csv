@@ -1,0 +1,6 @@
+Model,RMSE,R2,MAE
+Ridge Regression,2.872,0.8446,2.2779
+Linear Regression,2.8913,0.8425,2.2776
+Forward Stepwise,2.8913,0.8425,2.2776
+Lasso Regression,2.8913,0.8425,2.2777
+PCR,3.0574,0.8239,2.3462
