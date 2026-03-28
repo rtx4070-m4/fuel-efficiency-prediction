@@ -1,10 +1,6 @@
 # 🚗 Automobile Fuel Efficiency (MPG) Prediction
 
-**Authors:** Rishiraj Karn (2025DSS1020), Ritam Rabha (2025DSS1021)  
-**Submitted to:** Prof. Jayram Vallaru  
-**Institute:** Indian Institute of Technology, Ropar
 
----
 
 ## Project Overview
 
